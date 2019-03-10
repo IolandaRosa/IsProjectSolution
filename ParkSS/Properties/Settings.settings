@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ParkSS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionStr" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=3653599d-bff4-4ebb-8a25-a9a7010c43dd.sqlserver.sequelizer.com;Initial Catalog=db3653599dbff44ebb8a25a9a7010c43dd;User ID=qivpoyaenujlenov;Password=Trb7FPHZ3F8py727GTSGJVoLdMAu8vufytUEERT7U8Rb8SSF6w3zWap7dw42ooZE&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=3653599d-bff4-4ebb-8a25-a9a7010c43dd.sqlserver.sequelizer.com;Initial Catalog=db3653599dbff44ebb8a25a9a7010c43dd;User ID=qivpoyaenujlenov;Password=Trb7FPHZ3F8py727GTSGJVoLdMAu8vufytUEERT7U8Rb8SSF6w3zWap7dw42ooZE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

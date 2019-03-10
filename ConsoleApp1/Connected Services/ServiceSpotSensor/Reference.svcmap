@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7afa9759-b634-47d0-a792-2aa54d67eb9c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://bot-spotsensors.apphb.com/ServiceSpotSensor.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceSpotSensor.xsd" MetadataType="Schema" ID="67101105-bad8-49a8-9ffd-72bf4363d689" SourceId="1" SourceUrl="http://bot-spotsensors.apphb.com/ServiceSpotSensor.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceSpotSensor1.xsd" MetadataType="Schema" ID="0911930e-9726-4425-8040-5bc1ccec86eb" SourceId="1" SourceUrl="http://bot-spotsensors.apphb.com/ServiceSpotSensor.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceSpotSensor2.xsd" MetadataType="Schema" ID="7e0791a5-b2a3-4002-8e68-7a5bd0de8d1a" SourceId="1" SourceUrl="http://bot-spotsensors.apphb.com/ServiceSpotSensor.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceSpotSensor.wsdl" MetadataType="Wsdl" ID="4febaee0-e100-41ae-9008-5b1f72929f7a" SourceId="1" SourceUrl="http://bot-spotsensors.apphb.com/ServiceSpotSensor.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
